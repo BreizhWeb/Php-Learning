@@ -1,0 +1,46 @@
+﻿BODY {
+	BACKGROUND: #dea; 
+}
+
+DIV#contenu {
+	PADDING-RIGHT: 30px; 
+	PADDING-LEFT: 100px; 
+	PADDING-BOTTOM: 0px; 
+	PADDING-TOP: 0px
+}
+
+DIV#contenu H2 {
+	PADDING-LEFT: 25px; 
+	FONT-SIZE: 1.4em; 
+	BACKGROUND: url(little_apple.gif) no-repeat left bottom; 
+	BORDER-LEFT: #9b2 5px solid; 
+	COLOR: #9b2; 
+	LINE-HEIGHT: 25px; 
+	BORDER-BOTTOM: #9b2 1px solid
+}
+DIV#contenu H3 {
+	PADDING-LEFT: 5px; 
+	MARGIN-LEFT: 25px; 
+	BORDER-LEFT: #9b2 3px solid; 
+	COLOR: #9b2; 
+	BORDER-BOTTOM: #9b2 1px solid
+}
+DIV#contenu P {
+	TEXT-INDENT: 2em; 
+	LINE-HEIGHT: 2.5em; 
+	TEXT-ALIGN: justify
+}
+DIV#contenu A {
+	COLOR: #8a0
+}
+DIV#contenu A:hover {
+	COLOR: #9b2
+}
+P#footer {
+	PADDING-RIGHT: 50px; 
+	MARGIN: 0px; 
+	COLOR: #8a0; 
+	LINE-HEIGHT: 100px; 
+	TEXT-ALIGN: right
+}
+
